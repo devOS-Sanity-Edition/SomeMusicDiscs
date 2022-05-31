@@ -27,6 +27,7 @@
     ]
   },
   "disc.autotuned_spanish_flea": {
+    "subtitle": "§cYou feel a hostile flea on your neck.",
     "sounds": [
       {
         "name": "somemusicdiscs:records/autotuned_spanish_flea",
@@ -36,6 +37,7 @@
     ]
   },
   "disc.yakety_sax": {
+    "subtitle": "§cYou feel the loss of your sanity draining.",
     "sounds": [
       {
         "name": "somemusicdiscs:records/yakety_sax",
