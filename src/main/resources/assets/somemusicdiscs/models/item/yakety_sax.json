@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "badmusicdiscs:item/bombs_and_bass"
+        "layer0": "somemusicdiscs:item/yakety_sax"
     }
 }

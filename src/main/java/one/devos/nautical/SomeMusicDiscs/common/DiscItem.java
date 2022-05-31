@@ -1,4 +1,4 @@
-package one.devos.nautical.BadMusicDiscs.common;
+package one.devos.nautical.SomeMusicDiscs.common;
 
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.world.item.RecordItem;

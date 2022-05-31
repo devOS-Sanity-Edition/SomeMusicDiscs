@@ -1,10 +1,10 @@
-package one.devos.nautical.BadMusicDiscs.common;
+package one.devos.nautical.SomeMusicDiscs.common;
 
 import net.minecraft.core.Registry;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
-import one.devos.nautical.BadMusicDiscs.BadMusicDiscs;
+import one.devos.nautical.SomeMusicDiscs.SomeMusicDiscs;
 
 public class Items {
     private static final Item.Properties ITEM_PROPERTIES = new Item.Properties().stacksTo(1).tab(CreativeModeTab.TAB_MISC);
@@ -17,9 +17,9 @@ public class Items {
     public static final Item DISC_YAKETY_SAX = register("yakety_sax", new DiscItem(14, Music.SOUND_YAKETY_SAX, ITEM_PROPERTIES));
 
     public static Item register(String name, Item item) {
-        return Registry.register(Registry.ITEM, new ResourceLocation(BadMusicDiscs.MOD_ID, name), item);
+        return Registry.register(Registry.ITEM, new ResourceLocation(SomeMusicDiscs.MOD_ID, name), item);
     }
     public static void init() {
-        BadMusicDiscs.LOGGER.info("[" + BadMusicDiscs.MOD_NAME + "] Items Initialized" );
+        SomeMusicDiscs.LOGGER.info("[" + SomeMusicDiscs.MOD_NAME + "] Items Initialized" );
     }
 }

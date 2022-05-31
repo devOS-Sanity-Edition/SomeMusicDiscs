@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "id": "badmusicdiscs",
+    "id": "somemusicdiscs",
     "version": "${version}",
-    "name": "BadMusicDiscs",
+    "name": "somemusicdiscs",
     "description": "Adding some good and cursed music discs into your life.",
     "authors": [
         "Team Nautical"
@@ -12,19 +12,19 @@
     ],
     "contact": {
         "homepage": "https://devos.one",
-        "sources": "https://github.com/devOS-Sanity-Edition/badmusicdiscs",
-        "issues": "https://github.com/devOS-Sanity-Edition/badmusicdiscs/issues"
+        "sources": "https://github.com/devOS-Sanity-Edition/SomeMusicDiscs",
+        "issues": "https://github.com/devOS-Sanity-Edition/SomeMusicDiscs/issues"
     },
     "license": "MIT",
-    "icon": "assets/badmusicdiscs/icon.png",
+    "icon": "assets/somemusicdiscs/icon.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-            "one.devos.nautical.BadMusicDiscs.BadMusicDiscs"
+            "one.devos.nautical.SomeMusicDiscs.SomeMusicDiscs"
         ]
     },
     "mixins": [
-        "badmusicdiscs.mixins.json"
+        "somemusicdiscs.mixins.json"
     ],
     "depends": {
         "fabricloader": ">=0.13.3",

@@ -1,9 +1,9 @@
-package one.devos.nautical.BadMusicDiscs.common;
+package one.devos.nautical.SomeMusicDiscs.common;
 
 import net.minecraft.core.Registry;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvent;
-import one.devos.nautical.BadMusicDiscs.BadMusicDiscs;
+import one.devos.nautical.SomeMusicDiscs.SomeMusicDiscs;
 
 public class Music {
     // Carter's Music
@@ -16,10 +16,10 @@ public class Music {
     public static final SoundEvent SOUND_YAKETY_SAX = register("disc.yakety_sax");
 
     public static SoundEvent register(String name) {
-        ResourceLocation resourceLocation = new ResourceLocation(BadMusicDiscs.MOD_ID, name);
+        ResourceLocation resourceLocation = new ResourceLocation(SomeMusicDiscs.MOD_ID, name);
         return Registry.register(Registry.SOUND_EVENT, resourceLocation, new SoundEvent(resourceLocation));
     }
     public static void init() {
-        BadMusicDiscs.LOGGER.info("[" + BadMusicDiscs.MOD_NAME + "] Music Initialized" );
+        SomeMusicDiscs.LOGGER.info("[" + SomeMusicDiscs.MOD_NAME + "] Music Initialized" );
     }
 }
