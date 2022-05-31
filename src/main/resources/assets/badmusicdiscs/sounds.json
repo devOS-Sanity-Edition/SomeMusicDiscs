@@ -1,0 +1,42 @@
+{
+  "disc.bombs_and_bass": {
+    "sounds": [
+      {
+        "name": "badmusicdiscs:records/bombs_and_bass",
+        "stream": false
+      }
+    ]
+  },
+  "disc.trial1": {
+    "sounds": [
+      {
+        "name": "badmusicdiscs:records/trial1",
+        "stream": false
+      }
+    ]
+  },
+  "disc.trillbit": {
+    "sounds": [
+      {
+        "name": "badmusicdiscs:records/trillbit",
+        "stream": false
+      }
+    ]
+  },
+  "disc.autotuned_spanish_flea": {
+    "sounds": [
+      {
+        "name": "badmusicdiscs:records/autotuned_spanish_flea",
+        "stream": false
+      }
+    ]
+  },
+  "disc.yakety_sax": {
+    "sounds": [
+      {
+        "name": "badmusicdiscs:records/yakety_sax",
+        "stream": false
+      }
+    ]
+  }
+}

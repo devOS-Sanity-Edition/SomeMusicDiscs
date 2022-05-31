@@ -1,0 +1,13 @@
+{
+    "item.badmusicdiscs.autotuned_spanish_flea": "§bBad Music Disc",
+    "item.badmusicdiscs.bombs_and_bass": "§bBad Music Disc",
+    "item.badmusicdiscs.trial1": "§bBad Music Disc",
+    "item.badmusicdiscs.trillbit": "§bBad Music Disc",
+    "item.badmusicdiscs.yakety_sax": "§bBad Music Disc",
+
+    "item.badmusicdiscs.autotuned_spanish_flea.desc": "Autotuned Spanish Flea",
+    "item.badmusicdiscs.bombs_and_bass.desc": "Cart3r - Bombs and Bass",
+    "item.badmusicdiscs.trial1.desc": "Cart3r - Trial 1",
+    "item.badmusicdiscs.trillbit.desc": "Cart3r - Trillbit",
+    "item.badmusicdiscs.yakety_sax.desc": "Cart3r - Noteblock Yakety Sax"
+}

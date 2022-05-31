@@ -1,0 +1,34 @@
+{
+    "schemaVersion": 1,
+    "id": "badmusicdiscs",
+    "version": "${version}",
+    "name": "BadMusicDiscs",
+    "description": "Adding some good and cursed music discs into your life.",
+    "authors": [
+        "Team Nautical"
+    ],
+    "contributors": [
+        "asoji", "CARTER_1234"
+    ],
+    "contact": {
+        "homepage": "https://devos.one",
+        "sources": "https://github.com/devOS-Sanity-Edition/badmusicdiscs",
+        "issues": "https://github.com/devOS-Sanity-Edition/badmusicdiscs/issues"
+    },
+    "license": "MIT",
+    "icon": "assets/badmusicdiscs/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "one.devos.nautical.BadMusicDiscs.BadMusicDiscs"
+        ]
+    },
+    "mixins": [
+        "badmusicdiscs.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.13.3",
+        "fabric": "*",
+        "minecraft": "1.18.2"
+    }
+}
