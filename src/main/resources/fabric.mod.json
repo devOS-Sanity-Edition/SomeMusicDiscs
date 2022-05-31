@@ -2,9 +2,10 @@
     "schemaVersion": 1,
     "id": "somemusicdiscs",
     "version": "${version}",
-    "name": "somemusicdiscs",
+    "name": "Some Music Discs",
     "description": "Adding some good and cursed music discs into your life.",
     "authors": [
+        "devOS: Sanity Edition",
         "Team Nautical"
     ],
     "contributors": [
