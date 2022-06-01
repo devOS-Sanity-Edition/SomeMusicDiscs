@@ -29,5 +29,7 @@
     "item.somemusicdiscs.g4_reverse.desc": "Team G4 - G4 Reverse",
     "item.somemusicdiscs.g4_nox.desc": "Team G4 - G4 Nox",
     "item.somemusicdiscs.g4_polar.desc": "Team G4 - G4 Polar",
-    "item.somemusicdiscs.g4_shook.desc": "Team G4 - G4 Shook"
+    "item.somemusicdiscs.g4_shook.desc": "Team G4 - G4 Shook",
+
+    "itemGroup.somemusicdiscs.somemusicdiscs": "Some Music Discs"
 }
