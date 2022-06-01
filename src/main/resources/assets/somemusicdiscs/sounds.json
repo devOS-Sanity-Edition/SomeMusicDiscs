@@ -2,7 +2,7 @@
   "disc.bombs_and_bass": {
     "sounds": [
       {
-        "name": "somemusicdiscs:records/bombs_and_bass",
+        "name": "somemusicdiscs:records/carter/bombs_and_bass",
         "category": "record",
         "stream": true
       }
@@ -11,7 +11,7 @@
   "disc.trial1": {
     "sounds": [
       {
-        "name": "somemusicdiscs:records/trial1",
+        "name": "somemusicdiscs:records/carter/trial1",
         "category": "record",
         "stream": true
       }
@@ -20,7 +20,7 @@
   "disc.trillbit": {
     "sounds": [
       {
-        "name": "somemusicdiscs:records/trillbit",
+        "name": "somemusicdiscs:records/carter/trillbit",
         "category": "record",
         "stream": true
       }
@@ -30,7 +30,7 @@
     "subtitle": "§cYou feel a hostile flea on your neck.",
     "sounds": [
       {
-        "name": "somemusicdiscs:records/autotuned_spanish_flea",
+        "name": "somemusicdiscs:records/cursed/autotuned_spanish_flea",
         "category": "record",
         "stream": true
       }
@@ -40,7 +40,99 @@
     "subtitle": "§cYou feel the loss of your sanity draining.",
     "sounds": [
       {
-        "name": "somemusicdiscs:records/yakety_sax",
+        "name": "somemusicdiscs:records/cursed/yakety_sax",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_easy": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/easy",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_normal": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/normal",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_hard": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/hard",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_hell": {
+    "subtitle": "§cYou hear a knife coming towards you",
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/hell",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_hades": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/hades",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_chaos": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/chaos",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_reverse": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/reverse",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_nox": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/nox",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_polar": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/polar",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.g4_shook": {
+    "subtitle": "§6Meow?",
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/g4/shook",
         "category": "record",
         "stream": true
       }

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "somemusicdiscs:item/yakety_sax"
+        "layer0": "somemusicdiscs:item/cursed/yakety_sax"
     }
 }

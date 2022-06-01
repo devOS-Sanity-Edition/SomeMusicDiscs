@@ -4,7 +4,19 @@
         "somemusicdiscs:bombs_and_bass",
         "somemusicdiscs:trial1",
         "somemusicdiscs:trillbit",
+
         "somemusicdiscs:autotuned_spanish_flea",
-        "somemusicdiscs:yakety_sax"
+        "somemusicdiscs:yakety_sax",
+
+        "somemusicdiscs:g4_easy",
+        "somemusicdiscs:g4_normal",
+        "somemusicdiscs:g4_hard",
+        "somemusicdiscs:g4_hell",
+        "somemusicdiscs:g4_hades",
+        "somemusicdiscs:g4_chaos",
+        "somemusicdiscs:g4_reverse",
+        "somemusicdiscs:g4_nox",
+        "somemusicdiscs:g4_polar",
+        "somemusicdiscs:g4_shook"
     ]
 }
