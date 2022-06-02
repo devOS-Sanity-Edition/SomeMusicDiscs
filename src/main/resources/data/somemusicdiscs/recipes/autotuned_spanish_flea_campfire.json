@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "minecraft:music_disc_11"
+    },
+    "result": "somemusicdiscs:autotuned_spanish_flea",
+    "experience": 0.35,
+    "cookingtime": 600
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:music_disc_11"
+        },
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        }
+    ],
+    "result": {
+        "item": "somemusicdiscs:autotuned_spanish_flea"
+    }
+}

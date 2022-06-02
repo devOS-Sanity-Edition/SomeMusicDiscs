@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "par",
+        "pcp",
+        "aar"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:gold_ingot"
+        },
+        "r": {
+            "item": "minecraft:coal"
+        },
+        "a": {
+            "item": "minecraft:copper_ingot"
+        },
+        "p": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+    "item": "somemusicdiscs:crappy_sax",
+    "count": 1
+    }
+}
