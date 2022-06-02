@@ -1,8 +1,9 @@
 # SomeMusicDiscs
 
-This mod adds in 5 music dics [for now], 3 of them being made by Carter.
+This mod adds in 15 music dics [for now], 3 of them being made by Carter, 2 cursed, and 10 from [G4](http://team-g4.github.io/base-g4).
 
-![image](https://user-images.githubusercontent.com/99072163/171289885-587eb465-9d45-419b-9ae4-f6ee720e975e.png)
+![SomeMusicDiscs](https://user-images.githubusercontent.com/89364072/171521682-366b436d-9137-40d5-b836-c30fa1e74389.png)
+
 
 ## License
 
