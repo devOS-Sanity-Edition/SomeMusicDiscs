@@ -10,6 +10,7 @@ public class Music {
     public static final SoundEvent SOUND_BOMBS_AND_BASS = register("disc.bombs_and_bass");
     public static final SoundEvent SOUND_TRIAL1 = register("disc.trial1");
     public static final SoundEvent SOUND_TRILLBIT = register("disc.trillbit");
+    public static final SoundEvent SOUND_VERMELLIA = register("disc.vermellia");
 
     // Cursed Music
     public static final SoundEvent SOUND_AUTOTUNED_SPANISH_FLEA = register("disc.autotuned_spanish_flea");

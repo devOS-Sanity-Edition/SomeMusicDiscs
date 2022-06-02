@@ -26,6 +26,15 @@
       }
     ]
   },
+  "disc.vermellia": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/vermellia",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
   "disc.autotuned_spanish_flea": {
     "subtitle": "§cYou feel a hostile flea on your neck.",
     "sounds": [

@@ -1,9 +1,12 @@
 {
-    "item.somemusicdiscs.autotuned_spanish_flea": "§bMusic Disc",
     "item.somemusicdiscs.bombs_and_bass": "§bMusic Disc",
     "item.somemusicdiscs.trial1": "§bMusic Disc",
     "item.somemusicdiscs.trillbit": "§bMusic Disc",
+    "item.somemusicdiscs.vermellia": "§bMusic Disc",
+
+    "item.somemusicdiscs.autotuned_spanish_flea": "§bMusic Disc",
     "item.somemusicdiscs.yakety_sax": "§bMusic Disc",
+
     "item.somemusicdiscs.g4_easy": "§bMusic Disc",
     "item.somemusicdiscs.g4_normal": "§bMusic Disc",
     "item.somemusicdiscs.g4_hard": "§bMusic Disc",
@@ -15,11 +18,15 @@
     "item.somemusicdiscs.g4_polar": "§bMusic Disc",
     "item.somemusicdiscs.g4_shook": "§bMusic Disc",
 
-    "item.somemusicdiscs.autotuned_spanish_flea.desc": "Autotuned Spanish Flea",
+
     "item.somemusicdiscs.bombs_and_bass.desc": "Carter Johnson - Bombs and Bass",
     "item.somemusicdiscs.trial1.desc": "Carter Johnson - Trial 1",
     "item.somemusicdiscs.trillbit.desc": "Carter Johnson - Trillbit",
+    "item.somemusicdiscs.vermellia.desc": "Carter Johnson - Vermellia",
+
+    "item.somemusicdiscs.autotuned_spanish_flea.desc": "Autotuned Spanish Flea",
     "item.somemusicdiscs.yakety_sax.desc": "Noteblock Yakety Sax",
+
     "item.somemusicdiscs.g4_easy.desc": "Team G4 - G4 Easy",
     "item.somemusicdiscs.g4_normal.desc": "Team G4 - G4 Normal",
     "item.somemusicdiscs.g4_hard.desc": "Team G4 - G4 Hard",
@@ -30,6 +37,8 @@
     "item.somemusicdiscs.g4_nox.desc": "Team G4 - G4 Nox",
     "item.somemusicdiscs.g4_polar.desc": "Team G4 - G4 Polar",
     "item.somemusicdiscs.g4_shook.desc": "Team G4 - G4 Shook",
+
+    "item.somemusicdiscs.crappy_sax": "Crappy Sax",
 
     "itemGroup.somemusicdiscs.somemusicdiscs": "Some Music Discs"
 }
