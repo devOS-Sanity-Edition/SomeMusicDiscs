@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cobblestone"
+        },
+        {
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "somemusicdiscs:crappy_sax"
+        }
+    ],
+    "result": {
+        "item": "somemusicdiscs:yakety_sax",
+        "count": 1
+    }
+}
