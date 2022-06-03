@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/942531943013179422/981898980222967828/Dark.png">
-    <img title="modrinth" height="50" src="https://cdn.discordapp.com/attachments/942531943013179422/981898980491423784/Light.png">
-  </picture>
+  <a href="https://modrinth.com/mod/somemusicdiscs" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/942531943013179422/981898980222967828/Dark.png">
+      <img title="modrinth" height="50" src="https://cdn.discordapp.com/attachments/942531943013179422/981898980491423784/Light.png">
+    </picture>
+  </a>
 </p>
 
 This mod adds in 16 music dics [for now], 4 of them being made by Carter, 2 cursed, and 10 from [G4](http://team-g4.github.io/base-g4).
