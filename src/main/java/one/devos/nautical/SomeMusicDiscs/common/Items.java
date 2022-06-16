@@ -24,6 +24,13 @@ public class Items {
     public static final Item DISC_TRILLBIT = register("trillbit", new DiscItem(14, Music.SOUND_TRILLBIT, DISC_PROPERTIES));
     public static final Item DISC_VERMELLIA = register("vermellia", new DiscItem(14, Music.SOUND_VERMELLIA, DISC_PROPERTIES));
 
+    public static final Item DISC_WAVE_MARCH = register("wave_march", new DiscItem(14, Music.SOUND_WAVE_MARCH, DISC_PROPERTIES));
+    public static final Item DISC_AFTER_THAT_DAY = register("after_that_day", new DiscItem(14, Music.SOUND_AFTER_THAT_DAY, DISC_PROPERTIES));
+    public static final Item DISC_BELOW_THE_FOUNDATION = register("below_the_foundation", new DiscItem(14, Music.SOUND_BELOW_THE_FOUNDATION, DISC_PROPERTIES));
+    public static final Item DISC_DUELING_SLIDES = register("dueling_slides", new DiscItem(14, Music.SOUND_DUELING_SLIDES, DISC_PROPERTIES));
+    public static final Item DISC_SPIRALING_ECHOES = register("spiraling_echoes", new DiscItem(14, Music.SOUND_SPIRALING_ECHOES, DISC_PROPERTIES));
+
+
     // Cursed
     public static final Item DISC_AUTOTUNED_SPANISH_FLEA = register("autotuned_spanish_flea", new DiscItem(14, Music.SOUND_AUTOTUNED_SPANISH_FLEA, DISC_PROPERTIES));
     public static final Item DISC_YAKETY_SAX = register("yakety_sax", new DiscItem(14, Music.SOUND_YAKETY_SAX, DISC_PROPERTIES));

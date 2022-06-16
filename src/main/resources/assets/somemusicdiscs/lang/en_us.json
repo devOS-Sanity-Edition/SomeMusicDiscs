@@ -3,6 +3,11 @@
     "item.somemusicdiscs.trial1": "§bMusic Disc",
     "item.somemusicdiscs.trillbit": "§bMusic Disc",
     "item.somemusicdiscs.vermellia": "§bMusic Disc",
+    "item.somemusicdiscs.after_that_day": "§bMusic Disc",
+    "item.somemusicdiscs.below_the_foundation": "§bMusic Disc",
+    "item.somemusicdiscs.dueling_slides": "§bMusic Disc",
+    "item.somemusicdiscs.spiraling_echoes": "§bMusic Disc",
+    "item.somemusicdiscs.wave_march": "§bMusic Disc",
 
     "item.somemusicdiscs.autotuned_spanish_flea": "§bMusic Disc",
     "item.somemusicdiscs.yakety_sax": "§bMusic Disc",
@@ -23,6 +28,11 @@
     "item.somemusicdiscs.trial1.desc": "Carter Johnson - Trial 1",
     "item.somemusicdiscs.trillbit.desc": "Carter Johnson - Trillbit",
     "item.somemusicdiscs.vermellia.desc": "Carter Johnson - Vermellia",
+    "item.somemusicdiscs.after_that_day.desc": "Carter Johnson - After That Day",
+    "item.somemusicdiscs.below_the_foundation.desc": "Carter Johnson - Below The Foundation",
+    "item.somemusicdiscs.dueling_slides.desc": "Carter Johnson - Dueling Slides",
+    "item.somemusicdiscs.spiraling_echoes.desc": "Carter Johnson - Spiraling Echoes",
+    "item.somemusicdiscs.wave_march.desc": "Carter Johnson - Wave March",
 
     "item.somemusicdiscs.autotuned_spanish_flea.desc": "Autotuned Spanish Flea",
     "item.somemusicdiscs.yakety_sax.desc": "Noteblock Yakety Sax",

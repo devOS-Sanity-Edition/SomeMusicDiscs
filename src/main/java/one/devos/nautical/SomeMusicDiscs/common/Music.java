@@ -11,6 +11,11 @@ public class Music {
     public static final SoundEvent SOUND_TRIAL1 = register("disc.trial1");
     public static final SoundEvent SOUND_TRILLBIT = register("disc.trillbit");
     public static final SoundEvent SOUND_VERMELLIA = register("disc.vermellia");
+    public static final SoundEvent SOUND_WAVE_MARCH = register("disc.wave_march");
+    public static final SoundEvent SOUND_AFTER_THAT_DAY = register("disc.after_that_day");
+    public static final SoundEvent SOUND_BELOW_THE_FOUNDATION = register("disc.below_the_foundation");
+    public static final SoundEvent SOUND_DUELING_SLIDES = register("disc.dueling_slides");
+    public static final SoundEvent SOUND_SPIRALING_ECHOES = register("disc.spiraling_echoes");
 
     // Cursed Music
     public static final SoundEvent SOUND_AUTOTUNED_SPANISH_FLEA = register("disc.autotuned_spanish_flea");

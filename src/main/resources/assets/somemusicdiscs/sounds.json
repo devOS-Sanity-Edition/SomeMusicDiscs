@@ -35,6 +35,51 @@
       }
     ]
   },
+  "disc.after_that_day": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/after_that_day",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.below_the_foundation": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/below_the_foundation",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.dueling_slides": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/dueling_slides",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.spiraling_echoes": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/spiraling_echoes",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.wave_march": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/wave_march",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
   "disc.autotuned_spanish_flea": {
     "subtitle": "§cYou feel a hostile flea on your neck.",
     "sounds": [
