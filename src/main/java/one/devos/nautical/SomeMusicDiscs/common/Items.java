@@ -30,6 +30,14 @@ public class Items {
     public static final Item DISC_DUELING_SLIDES = register("dueling_slides", new DiscItem(14, Music.SOUND_DUELING_SLIDES, DISC_PROPERTIES));
     public static final Item DISC_SPIRALING_ECHOES = register("spiraling_echoes", new DiscItem(14, Music.SOUND_SPIRALING_ECHOES, DISC_PROPERTIES));
 
+    public static final Item DISC_AWAITING_RETRIEVAL = register("awaiting_retrieval", new DiscItem(14, Music.SOUND_AWAITING_RETRIEVAL, DISC_PROPERTIES));
+    public static final Item DISC_DESTRUCTION_OF_CREATION = register("destruction_of_creation", new DiscItem(14, Music.SOUND_DESTRUCTION_OF_CREATION, DISC_PROPERTIES));
+    public static final Item DISC_GROUNDED_RISING = register("grounded_rising", new DiscItem(14, Music.SOUND_GROUNDED_RISING, DISC_PROPERTIES));
+    public static final Item DISC_LAYER_BY_LAYER = register("layer_by_layer", new DiscItem(14, Music.SOUND_LAYER_BY_LAYER, DISC_PROPERTIES));
+    public static final Item DISC_PENDULUM_PACING = register("pendulum_pacing", new DiscItem(14, Music.SOUND_PENDULUM_PACING, DISC_PROPERTIES));
+    public static final Item DISC_PULSEBRIGHT = register("pulseblight", new DiscItem(14, Music.SOUND_PULSEBRIGHT, DISC_PROPERTIES));
+    public static final Item DISC_RETRACE_REVERSE = register("retrace_reverse", new DiscItem(14, Music.SOUND_RETRACE_REVERSE, DISC_PROPERTIES));
+
 
     // Cursed
     public static final Item DISC_AUTOTUNED_SPANISH_FLEA = register("autotuned_spanish_flea", new DiscItem(14, Music.SOUND_AUTOTUNED_SPANISH_FLEA, DISC_PROPERTIES));

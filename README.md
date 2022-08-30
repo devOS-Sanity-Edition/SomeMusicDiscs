@@ -13,9 +13,9 @@
   </a>
 </p>
 
-This mod adds in 21 music dics [for now], 9 of them being made by Carter, 2 cursed, and 10 from [G4](http://team-g4.github.io/base-g4).
+This mod adds in a bunch of music dics [for now], most of them being made by Carter, some cursed, and 10 from [G4](http://team-g4.github.io/base-g4).
 
-![image](https://user-images.githubusercontent.com/89364072/174153315-5d3182ac-5572-4da4-9e47-6ffa837e3245.png)
+![image](https://user-images.githubusercontent.com/99072163/187432107-3f3054d6-baa0-4eb7-9c8b-a479f1016226.png)
 
 ## License
 

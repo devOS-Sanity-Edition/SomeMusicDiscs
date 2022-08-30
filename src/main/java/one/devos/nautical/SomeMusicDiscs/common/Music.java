@@ -16,6 +16,14 @@ public class Music {
     public static final SoundEvent SOUND_BELOW_THE_FOUNDATION = register("disc.below_the_foundation");
     public static final SoundEvent SOUND_DUELING_SLIDES = register("disc.dueling_slides");
     public static final SoundEvent SOUND_SPIRALING_ECHOES = register("disc.spiraling_echoes");
+    public static final SoundEvent SOUND_AWAITING_RETRIEVAL = register("disc.awaiting_retrieval");
+    public static final SoundEvent SOUND_DESTRUCTION_OF_CREATION = register("disc.destruction_of_creation");
+    public static final SoundEvent SOUND_GROUNDED_RISING = register("disc.grounded_rising");
+    public static final SoundEvent SOUND_LAYER_BY_LAYER = register("disc.layer_by_layer");
+    public static final SoundEvent SOUND_PENDULUM_PACING = register("disc.pendulum_pacing");
+    public static final SoundEvent SOUND_PULSEBRIGHT = register("disc.pulseblight");
+    public static final SoundEvent SOUND_RETRACE_REVERSE = register("disc.retrace_reverse");
+
 
     // Cursed Music
     public static final SoundEvent SOUND_AUTOTUNED_SPANISH_FLEA = register("disc.autotuned_spanish_flea");

@@ -80,6 +80,69 @@
       }
     ]
   },
+  "disc.awaiting_retrieval": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/awaiting_retrieval",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.destruction_of_creation": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/destruction_of_creation",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.grounded_rising": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/grounded_rising",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.layer_by_layer": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/layer_by_layer",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.pendulum_pacing": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/pendulum_pacing",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.pulseblight": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/pulseblight",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.retrace_reverse": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/retrace_reverse",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
   "disc.autotuned_spanish_flea": {
     "subtitle": "§cYou feel a hostile flea on your neck.",
     "sounds": [
