@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://modrinth.com/mod/somemusicdiscs" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/942531943013179422/981898980222967828/Dark.png">
-      <img title="modrinth" height="50" src="https://cdn.discordapp.com/attachments/942531943013179422/981898980491423784/Light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark__184x72.png?raw=true">
+      <img title="modrinth" height="50" src="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-light__184x72.png?raw=true">
     </picture>
   </a>
 </p>
