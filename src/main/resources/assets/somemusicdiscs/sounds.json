@@ -143,6 +143,33 @@
       }
     ]
   },
+  "disc.wave_cutter": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/wave_cutter",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.live_storage": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/live_storage",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
+  "disc.steel_tide": {
+    "sounds": [
+      {
+        "name": "somemusicdiscs:records/carter/steel_tide",
+        "category": "record",
+        "stream": true
+      }
+    ]
+  },
   "disc.autotuned_spanish_flea": {
     "subtitle": "§cYou feel a hostile flea on your neck.",
     "sounds": [

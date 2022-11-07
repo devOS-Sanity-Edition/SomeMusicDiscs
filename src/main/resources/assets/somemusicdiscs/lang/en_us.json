@@ -15,6 +15,10 @@
     "item.somemusicdiscs.pendulum_pacing": "§bMusic Disc",
     "item.somemusicdiscs.pulseblight": "§bMusic Disc",
     "item.somemusicdiscs.retrace_reverse": "§bMusic Disc",
+    "item.somemusicdiscs.wave_cutter": "§bMusic Disc",
+    "item.somemusicdiscs.live_storage": "§bMusic Disc",
+    "item.somemusicdiscs.steel_tide": "§bMusic Disc",
+
 
     "item.somemusicdiscs.autotuned_spanish_flea": "§bMusic Disc",
     "item.somemusicdiscs.yakety_sax": "§bMusic Disc",
@@ -47,6 +51,9 @@
     "item.somemusicdiscs.pendulum_pacing.desc": "Carter Johnson - Pendulum Pacing",
     "item.somemusicdiscs.pulseblight.desc": "Carter Johnson - Pulseblight",
     "item.somemusicdiscs.retrace_reverse.desc": "Carter Johnson - Retrace Reverse",
+    "item.somemusicdiscs.wave_cutter.desc": "Carter Johnson - Wave Cutter",
+    "item.somemusicdiscs.live_storage.desc": "Carter Johnson - Live Storage",
+    "item.somemusicdiscs.steel_tide.desc": "Carter Johnson - Steel Tide",
 
     "item.somemusicdiscs.autotuned_spanish_flea.desc": "Autotuned Spanish Flea",
     "item.somemusicdiscs.yakety_sax.desc": "Noteblock Yakety Sax",

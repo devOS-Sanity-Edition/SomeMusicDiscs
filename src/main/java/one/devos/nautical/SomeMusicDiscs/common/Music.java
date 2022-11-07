@@ -24,6 +24,9 @@ public class Music {
     public static final SoundEvent SOUND_PULSEBRIGHT = register("disc.pulseblight");
     public static final SoundEvent SOUND_RETRACE_REVERSE = register("disc.retrace_reverse");
 
+    public static final SoundEvent SOUND_WAVE_CUTTER = register("disc.wave_cutter");
+    public static final SoundEvent SOUND_LIVE_STORAGE = register("disc.live_storage");
+    public static final SoundEvent SOUND_STEEL_TIDE = register("disc.steel_tide");
 
     // Cursed Music
     public static final SoundEvent SOUND_AUTOTUNED_SPANISH_FLEA = register("disc.autotuned_spanish_flea");
