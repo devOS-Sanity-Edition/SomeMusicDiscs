@@ -1,22 +1,19 @@
 package one.devos.nautical.SomeMusicDiscs.common;
 
-import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
+import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.core.Registry;
+import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.ItemStack;
 import one.devos.nautical.SomeMusicDiscs.SomeMusicDiscs;
 
-public class Items {
-    public static final CreativeModeTab SOMEMUSICDISCS_ITEM_GROUP = FabricItemGroupBuilder.build(
-            new ResourceLocation(SomeMusicDiscs.MOD_ID, "somemusicdiscs"),
-            () -> new ItemStack(Items.DISC_BOMBS_AND_BASS));
+import static one.devos.nautical.SomeMusicDiscs.SomeMusicDiscs.ITEM_GROUP;
 
-    private static final Item.Properties DISC_PROPERTIES = new Item.Properties().stacksTo(1).tab(SOMEMUSICDISCS_ITEM_GROUP);
+public class Items {
+    private static final Item.Properties DISC_PROPERTIES = new Item.Properties().stacksTo(1);
 
     // yakety sax ensues
-    public static final Item CRAPPY_SAX = register("crappy_sax", new Item(new Item.Properties().stacksTo(8).tab(SOMEMUSICDISCS_ITEM_GROUP)));
+    public static final Item CRAPPY_SAX = register("crappy_sax", new Item(new Item.Properties().stacksTo(8)));
 
     // Carter
     public static final Item DISC_BOMBS_AND_BASS = register("bombs_and_bass", new DiscItem(14, Music.SOUND_BOMBS_AND_BASS, DISC_PROPERTIES, 104));
@@ -61,9 +58,12 @@ public class Items {
     public static final Item DISC_G4_SHOOK = register("g4_shook", new DiscItem(14, Music.SOUND_G4_SHOOK, DISC_PROPERTIES, 81));
 
     public static Item register(String name, Item item) {
-        return Registry.register(Registry.ITEM, new ResourceLocation(SomeMusicDiscs.MOD_ID, name), item);
+        ItemGroupEvents.modifyEntriesEvent(ITEM_GROUP).register(content -> {
+            content.accept(item);
+        });
+        return Registry.register(BuiltInRegistries.ITEM, new ResourceLocation(SomeMusicDiscs.MOD_ID, name), item);
     }
     public static void init() {
-        SomeMusicDiscs.LOGGER.info("[" + SomeMusicDiscs.MOD_NAME + "] Items Initialized" );
+        SomeMusicDiscs.LOGGER.info("[SomeMusicDiscs] Items Initialized" );
     }
 }

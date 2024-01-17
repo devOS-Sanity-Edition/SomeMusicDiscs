@@ -1,6 +1,7 @@
 package one.devos.nautical.SomeMusicDiscs.common;
 
 import net.minecraft.core.Registry;
+import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvent;
 import one.devos.nautical.SomeMusicDiscs.SomeMusicDiscs;
@@ -47,9 +48,9 @@ public class Music {
 
     public static SoundEvent register(String name) {
         ResourceLocation resourceLocation = new ResourceLocation(SomeMusicDiscs.MOD_ID, name);
-        return Registry.register(Registry.SOUND_EVENT, resourceLocation, new SoundEvent(resourceLocation));
+        return Registry.register(BuiltInRegistries.SOUND_EVENT, resourceLocation, SoundEvent.createVariableRangeEvent(resourceLocation));
     }
     public static void init() {
-        SomeMusicDiscs.LOGGER.info("[" + SomeMusicDiscs.MOD_NAME + "] Music Initialized" );
+        SomeMusicDiscs.LOGGER.info("[SomeMusicDiscs] Music Initialized" );
     }
 }
